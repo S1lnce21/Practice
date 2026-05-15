@@ -1,0 +1,8 @@
+.history-item {
+  border-bottom: 1px solid #eee;
+  padding: 0.8rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
